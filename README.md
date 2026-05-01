@@ -29,18 +29,7 @@ I enjoy building intelligent systems and data-driven solutions that solve comple
 
 ---
 
-### 📊 GitHub Statistics
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-  <p>Thank you for visiting my profile. Always open to interesting opportunities and collaborations.</p>
+  <p>Thank you for visiting my profile.</p>
+  <p>Always open to interesting opportunities and collaborations.</p>
 </div>
