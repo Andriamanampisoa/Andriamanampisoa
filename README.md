@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 I am a passionate Software Engineer deeply fascinated by Artificial Intelligence and Data.
 My main interests lie in Machine Learning, Deep Learning, AI Agents, and MCP.
@@ -19,13 +19,21 @@ I enjoy building intelligent systems and data-driven solutions that solve comple
 
 ---
 
-### Technologies
+### 🛠️ Technologies
 
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=python,django,nodejs,vuejs,cpp,c,docker,jenkins,azure&perline=10)
 
 </div>
+
+---
+
+### 🤗 Hugging Face
+
+I actively share AI models, experiments, and fine-tuned LLMs on Hugging Face.
+
+[![Hugging Face Profile](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Traz33r)
 
 ---
 
